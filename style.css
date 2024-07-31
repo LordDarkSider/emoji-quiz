@@ -11,7 +11,6 @@ h1{
 
 #clues {
     display : none;
-    width: 90%;
     margin: 0 auto;
     color: gold;
     font-weight: bold;
@@ -24,11 +23,11 @@ h1{
     border-radius: 10px;
     background-color: #330a66;
     cursor: pointer;
+    margin: 1%;
 }
 
 .clue, .index{
     display: inline-block;
-    margin: 2%;
     height: 50px;
     width: 60px;
 }
